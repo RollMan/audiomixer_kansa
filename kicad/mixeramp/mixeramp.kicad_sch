@@ -3880,6 +3880,15 @@
 				(hide yes)
 			)
 		)
+		(property "URL" ""
+			(at 176.53 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7cd303bf-aeea-4759-9d5f-a68035a7c61a")
 		)
@@ -3922,7 +3931,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 192.7352 64.77 0)
 			(effects
 				(font
@@ -3950,6 +3959,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 191.77 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 191.77 60.96 0)
 			(effects
 				(font
@@ -4094,6 +4112,15 @@
 				(hide yes)
 			)
 		)
+		(property "URL" ""
+			(at 66.04 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "317d54c6-4cff-4531-b5ec-4a1393dc420d")
 		)
@@ -4204,7 +4231,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Audio:Jack_3.5mm_Switronic_ST-005-G_horizontal"
 			(at 29.21 140.97 0)
 			(effects
 				(font
@@ -4223,6 +4250,24 @@
 			)
 		)
 		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS)"
+			(at 29.21 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ST-005-G"
+			(at 29.21 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://akizukidenshi.com/catalog/g/g102460/"
 			(at 29.21 140.97 0)
 			(effects
 				(font
@@ -4296,6 +4341,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 90.17 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 90.17 82.55 0)
 			(effects
 				(font
@@ -4448,6 +4502,15 @@
 				(hide yes)
 			)
 		)
+		(property "URL" ""
+			(at 203.2 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2a838dd9-64f4-4201-9bc3-daf4ebf78b56")
 		)
@@ -4557,7 +4620,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 50.292 153.67 90)
 			(effects
 				(font
@@ -4576,6 +4639,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 52.07 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 52.07 153.67 0)
 			(effects
 				(font
@@ -4727,6 +4799,15 @@
 				(hide yes)
 			)
 		)
+		(property "URL" ""
+			(at 227.33 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "904c6d28-8810-4bea-9653-81c2012cd6e6")
 		)
@@ -4836,7 +4917,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 234.442 59.69 90)
 			(effects
 				(font
@@ -4855,6 +4936,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 236.22 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 236.22 59.69 0)
 			(effects
 				(font
@@ -4962,6 +5052,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 21.59 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 21.59 35.56 0)
 			(effects
 				(font
@@ -5086,6 +5185,15 @@
 				(hide yes)
 			)
 		)
+		(property "URL" ""
+			(at 35.56 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "15d332fb-5f93-420b-8b24-29d5646c1491")
 		)
@@ -5126,7 +5234,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 173.99 48.768 90)
 			(effects
 				(font
@@ -5154,6 +5262,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 173.99 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 173.99 46.99 0)
 			(effects
 				(font
@@ -5296,6 +5413,15 @@
 				(hide yes)
 			)
 		)
+		(property "URL" ""
+			(at 176.53 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "14be119d-1ee6-49b7-8f50-f4d6aa9e3784")
 		)
@@ -5365,6 +5491,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 245.11 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 245.11 125.73 0)
 			(effects
 				(font
@@ -5482,7 +5617,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 137.16 34.29 0)
 			(effects
 				(font
@@ -5537,6 +5672,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=out1 2=in1- 3=in1+ 4=vee 5=in2+ 6=in2- 7=out2 8=vcc"
+			(at 137.16 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 137.16 34.29 0)
 			(effects
 				(font
@@ -5606,7 +5750,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 77.1652 86.36 0)
 			(effects
 				(font
@@ -5625,6 +5769,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 76.2 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 76.2 82.55 0)
 			(effects
 				(font
@@ -5741,7 +5894,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 177.292 60.96 90)
 			(effects
 				(font
@@ -5769,6 +5922,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 179.07 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 179.07 60.96 0)
 			(effects
 				(font
@@ -5838,6 +6000,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 128.27 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 128.27 34.29 0)
 			(effects
 				(font
@@ -5952,7 +6123,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 228.6 151.4348 0)
 			(effects
 				(font
@@ -5980,6 +6151,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 224.79 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 224.79 152.4 0)
 			(effects
 				(font
@@ -6095,7 +6275,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 209.55 49.53 0)
 			(effects
 				(font
@@ -6158,29 +6338,38 @@
 				(hide yes)
 			)
 		)
+		(property "URL" ""
+			(at 209.55 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
-			(uuid "030d9bf2-8369-481d-8f74-69097f7f7a91")
+			(uuid "030d9bf2-8369-481d-8f74-69097f7f7a92")
 		)
 		(pin "6"
-			(uuid "05dfd317-a1e0-4f27-97cc-9121a43b2ef0")
+			(uuid "05dfd317-a1e0-4f27-97cc-9121a43b2ef1")
 		)
 		(pin "3"
-			(uuid "da4c523a-406d-4eb8-ad70-c14537b65cad")
+			(uuid "da4c523a-406d-4eb8-ad70-c14537b65cae")
 		)
 		(pin "2"
-			(uuid "e05991d7-b196-4894-add2-3c805ddf5679")
+			(uuid "e05991d7-b196-4894-add2-3c805ddf567a")
 		)
 		(pin "5"
-			(uuid "fbe81092-eb08-468d-9fda-455d5dac5cdb")
+			(uuid "fbe81092-eb08-468d-9fda-455d5dac5cdc")
 		)
 		(pin "4"
-			(uuid "8290f404-ce6f-45a3-98c5-d2ac04ea453f")
+			(uuid "8290f404-ce6f-45a3-98c5-d2ac04ea4540")
 		)
 		(pin "1"
-			(uuid "5b4e6f08-503b-4e3d-8aee-e793876530e8")
+			(uuid "5b4e6f08-503b-4e3d-8aee-e793876530e9")
 		)
 		(pin "8"
-			(uuid "7e43da59-891e-4116-ab70-f4f5920bf25d")
+			(uuid "7e43da59-891e-4116-ab70-f4f5920bf25e")
 		)
 		(instances
 			(project "mixeramp"
@@ -6283,7 +6472,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 191.77 36.068 90)
 			(effects
 				(font
@@ -6311,6 +6500,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 191.77 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 191.77 34.29 0)
 			(effects
 				(font
@@ -6360,7 +6558,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Audio:Jack_3.5mm_Switronic_ST-005-G_horizontal"
 			(at 29.21 123.19 0)
 			(effects
 				(font
@@ -6379,6 +6577,24 @@
 			)
 		)
 		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS)"
+			(at 29.21 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ST-005-G"
+			(at 29.21 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://akizukidenshi.com/catalog/g/g102460/"
 			(at 29.21 123.19 0)
 			(effects
 				(font
@@ -6497,7 +6713,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 191.77 19.812 90)
 			(effects
 				(font
@@ -6525,6 +6741,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 191.77 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 191.77 21.59 0)
 			(effects
 				(font
@@ -6576,7 +6801,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 41.402 153.67 90)
 			(effects
 				(font
@@ -6595,6 +6820,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 43.18 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 43.18 153.67 0)
 			(effects
 				(font
@@ -6644,7 +6878,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Audio:Jack_3.5mm_Switronic_ST-005-G_horizontal"
 			(at 153.67 133.35 0)
 			(effects
 				(font
@@ -6663,6 +6897,24 @@
 			)
 		)
 		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS)"
+			(at 153.67 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ST-005-G"
+			(at 153.67 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://akizukidenshi.com/catalog/g/g102460/"
 			(at 153.67 133.35 0)
 			(effects
 				(font
@@ -6846,7 +7098,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
 			(at 207.01 70.358 90)
 			(effects
 				(font
@@ -6874,6 +7126,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 207.01 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 207.01 68.58 0)
 			(effects
 				(font
@@ -6952,6 +7213,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 185.42 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 185.42 60.96 0)
 			(effects
 				(font
@@ -7094,6 +7364,15 @@
 				(hide yes)
 			)
 		)
+		(property "URL" ""
+			(at 194.31 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5b98372-83ca-40d6-a997-aa5da780712b")
 		)
@@ -7201,7 +7480,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 209.55 96.012 90)
 			(effects
 				(font
@@ -7229,6 +7508,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 209.55 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 209.55 97.79 0)
 			(effects
 				(font
@@ -7280,7 +7568,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 119.0752 38.1 0)
 			(effects
 				(font
@@ -7299,6 +7587,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 118.11 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 118.11 34.29 0)
 			(effects
 				(font
@@ -7367,6 +7664,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 194.31 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 194.31 110.49 0)
 			(effects
 				(font
@@ -7484,7 +7790,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 254.762 135.89 90)
 			(effects
 				(font
@@ -7503,6 +7809,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 256.54 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 256.54 135.89 0)
 			(effects
 				(font
@@ -7626,6 +7941,15 @@
 				(hide yes)
 			)
 		)
+		(property "URL" ""
+			(at 49.53 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "066f1fa0-a3af-4698-8145-50bbe394f5c3")
 		)
@@ -7667,7 +7991,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 227.33 125.73 0)
 			(effects
 				(font
@@ -7730,29 +8054,38 @@
 				(hide yes)
 			)
 		)
+		(property "URL" ""
+			(at 227.33 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
-			(uuid "030d9bf2-8369-481d-8f74-69097f7f7a91")
+			(uuid "030d9bf2-8369-481d-8f74-69097f7f7a93")
 		)
 		(pin "6"
-			(uuid "05dfd317-a1e0-4f27-97cc-9121a43b2ef0")
+			(uuid "05dfd317-a1e0-4f27-97cc-9121a43b2ef2")
 		)
 		(pin "3"
-			(uuid "da4c523a-406d-4eb8-ad70-c14537b65cad")
+			(uuid "da4c523a-406d-4eb8-ad70-c14537b65caf")
 		)
 		(pin "2"
-			(uuid "e05991d7-b196-4894-add2-3c805ddf5679")
+			(uuid "e05991d7-b196-4894-add2-3c805ddf567b")
 		)
 		(pin "5"
-			(uuid "fbe81092-eb08-468d-9fda-455d5dac5cdb")
+			(uuid "fbe81092-eb08-468d-9fda-455d5dac5cdd")
 		)
 		(pin "4"
-			(uuid "8290f404-ce6f-45a3-98c5-d2ac04ea453f")
+			(uuid "8290f404-ce6f-45a3-98c5-d2ac04ea4541")
 		)
 		(pin "1"
-			(uuid "5b4e6f08-503b-4e3d-8aee-e793876530e8")
+			(uuid "5b4e6f08-503b-4e3d-8aee-e793876530ea")
 		)
 		(pin "8"
-			(uuid "7e43da59-891e-4116-ab70-f4f5920bf25d")
+			(uuid "7e43da59-891e-4116-ab70-f4f5920bf25f")
 		)
 		(instances
 			(project "mixeramp"
@@ -7854,7 +8187,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 210.82 75.2348 0)
 			(effects
 				(font
@@ -7908,6 +8241,15 @@
 				(hide yes)
 			)
 		)
+		(property "URL" ""
+			(at 207.01 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2f9e465c-6606-49fe-b757-c7f6c37fb88b")
 		)
@@ -7951,7 +8293,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 58.1152 86.36 0)
 			(effects
 				(font
@@ -7970,6 +8312,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 57.15 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://akizukidenshi.com/catalog/g/g115937/"
+			(at 57.15 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RD15W334K1HL2L"
 			(at 57.15 82.55 0)
 			(effects
 				(font
@@ -8151,7 +8511,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 209.55 112.268 90)
 			(effects
 				(font
@@ -8179,6 +8539,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 209.55 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 209.55 110.49 0)
 			(effects
 				(font
@@ -8454,6 +8823,15 @@
 				(hide yes)
 			)
 		)
+		(property "URL" ""
+			(at 45.72 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bb4fabd8-fd99-40ac-af6e-aad331fd2784")
 		)
@@ -8497,7 +8875,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 69.342 153.67 90)
 			(effects
 				(font
@@ -8516,6 +8894,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 71.12 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 71.12 153.67 0)
 			(effects
 				(font
@@ -8566,7 +8953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 195.072 137.16 90)
 			(effects
 				(font
@@ -8594,6 +8981,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 196.85 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 196.85 137.16 0)
 			(effects
 				(font
@@ -8645,7 +9041,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 60.452 153.67 90)
 			(effects
 				(font
@@ -8664,6 +9060,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 62.23 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 62.23 153.67 0)
 			(effects
 				(font
@@ -8713,7 +9118,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_BarrelJack:BarrelJack_Horizontal"
 			(at 31.75 75.946 0)
 			(effects
 				(font
@@ -8732,6 +9137,15 @@
 			)
 		)
 		(property "Description" "DC Barrel Jack with an internal switch"
+			(at 30.48 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 30.48 74.93 0)
 			(effects
 				(font
@@ -8980,7 +9394,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal"
 			(at 191.77 124.968 90)
 			(effects
 				(font
@@ -9008,6 +9422,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 191.77 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 191.77 123.19 0)
 			(effects
 				(font
@@ -9058,7 +9481,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 210.5152 140.97 0)
 			(effects
 				(font
@@ -9086,6 +9509,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 209.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 209.55 137.16 0)
 			(effects
 				(font
@@ -9134,7 +9566,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
 			(at 224.79 146.558 90)
 			(effects
 				(font
@@ -9162,6 +9594,15 @@
 			)
 		)
 		(property "MPN" ""
+			(at 224.79 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" ""
 			(at 224.79 144.78 0)
 			(effects
 				(font

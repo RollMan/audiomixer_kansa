@@ -3519,6 +3519,26 @@
 		)
 		(uuid "ffc4d3c8-f96c-4c6d-ae69-a6be642e9426")
 	)
+	(text "Optional"
+		(exclude_from_sim no)
+		(at 214.884 80.518 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "923e59cd-dbcb-4ce1-87b9-abfb0d5da7ee")
+	)
+	(text "Optional"
+		(exclude_from_sim no)
+		(at 232.41 156.718 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bdc68b3b-f799-47fc-b23a-b608dd9d1012")
+	)
 	(global_label "CH1_R"
 		(shape input)
 		(at 35.56 24.13 90)
@@ -3845,7 +3865,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100u"
 			(at 176.53 16.51 90)
 			(effects
 				(font
@@ -3853,7 +3873,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 180.34 20.6248 0)
 			(effects
 				(font
@@ -3880,7 +3900,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g105041/"
+			(at 176.53 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" ""
 			(at 176.53 21.59 0)
 			(effects
 				(font
@@ -3968,6 +3997,15 @@
 			)
 		)
 		(property "URL" ""
+			(at 191.77 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" ""
 			(at 191.77 60.96 0)
 			(effects
 				(font
@@ -4083,7 +4121,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
 			(at 66.675 76.2 0)
 			(effects
 				(font
@@ -4112,7 +4150,25 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g111165/"
+			(at 66.04 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "L7809CV"
+			(at 66.04 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "1"
 			(at 66.04 72.39 0)
 			(effects
 				(font
@@ -4276,6 +4332,15 @@
 				(hide yes)
 			)
 		)
+		(property "purchase" "3"
+			(at 29.21 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "R"
 			(uuid "4c264d8d-cb1a-485a-b6ff-28ef746e4f68")
 		)
@@ -4322,7 +4387,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 91.1352 86.36 0)
 			(effects
 				(font
@@ -4350,6 +4415,15 @@
 			)
 		)
 		(property "URL" ""
+			(at 90.17 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" ""
 			(at 90.17 82.55 0)
 			(effects
 				(font
@@ -4466,7 +4540,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 204.1652 140.97 0)
 			(effects
 				(font
@@ -4493,7 +4567,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RD20F106Z1EH5L"
 			(at 203.2 137.16 0)
 			(effects
 				(font
@@ -4502,7 +4576,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g103095/"
+			(at 203.2 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "1"
 			(at 203.2 137.16 0)
 			(effects
 				(font
@@ -4647,7 +4730,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g125105/"
+			(at 52.07 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "6"
 			(at 52.07 153.67 0)
 			(effects
 				(font
@@ -4763,7 +4855,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 231.14 48.5648 0)
 			(effects
 				(font
@@ -4790,7 +4882,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RD20F106Z1EH5L"
 			(at 227.33 49.53 0)
 			(effects
 				(font
@@ -4799,7 +4891,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g103095/"
+			(at 227.33 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "1"
 			(at 227.33 49.53 0)
 			(effects
 				(font
@@ -4944,7 +5045,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g125105/"
+			(at 236.22 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "6"
 			(at 236.22 59.69 0)
 			(effects
 				(font
@@ -5061,6 +5171,15 @@
 			)
 		)
 		(property "URL" ""
+			(at 21.59 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" ""
 			(at 21.59 35.56 0)
 			(effects
 				(font
@@ -5194,6 +5313,15 @@
 				(hide yes)
 			)
 		)
+		(property "purchase" ""
+			(at 35.56 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "15d332fb-5f93-420b-8b24-29d5646c1491")
 		)
@@ -5226,7 +5354,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 173.736 49.784 90)
 			(effects
 				(font
@@ -5271,6 +5399,15 @@
 			)
 		)
 		(property "URL" ""
+			(at 173.99 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" ""
 			(at 173.99 46.99 0)
 			(effects
 				(font
@@ -5378,7 +5515,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100u"
 			(at 176.53 29.21 90)
 			(effects
 				(font
@@ -5386,7 +5523,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 180.34 33.3248 0)
 			(effects
 				(font
@@ -5413,7 +5550,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g105041/"
+			(at 176.53 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" ""
 			(at 176.53 34.29 0)
 			(effects
 				(font
@@ -5455,7 +5601,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "100u"
 			(at 245.11 120.65 90)
 			(effects
 				(font
@@ -5463,7 +5609,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 248.92 124.7648 0)
 			(effects
 				(font
@@ -5499,7 +5645,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g105041/"
+			(at 245.11 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" ""
 			(at 245.11 125.73 0)
 			(effects
 				(font
@@ -5608,7 +5763,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NJM4558"
+		(property "Value" "NJM4580"
 			(at 135.89 35.5599 0)
 			(effects
 				(font
@@ -5626,7 +5781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.njr.com/semicon/PDF/NJM4558_NJM4559_E.pdf"
+		(property "Datasheet" ""
 			(at 137.16 34.29 0)
 			(effects
 				(font
@@ -5681,6 +5836,15 @@
 			)
 		)
 		(property "URL" ""
+			(at 137.16 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "0"
 			(at 137.16 34.29 0)
 			(effects
 				(font
@@ -5778,6 +5942,15 @@
 			)
 		)
 		(property "URL" ""
+			(at 76.2 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" ""
 			(at 76.2 82.55 0)
 			(effects
 				(font
@@ -5885,7 +6058,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 180.086 64.516 0)
 			(effects
 				(font
@@ -5939,6 +6112,15 @@
 				(hide yes)
 			)
 		)
+		(property "purchase" ""
+			(at 179.07 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "85b118ff-d134-4d57-aaf4-13ae5be9198c")
 		)
@@ -5981,7 +6163,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 129.2352 38.1 0)
 			(effects
 				(font
@@ -6008,7 +6190,25 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g103095/"
+			(at 128.27 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "1"
+			(at 128.27 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RD20F106Z1EH5L"
 			(at 128.27 34.29 0)
 			(effects
 				(font
@@ -6115,7 +6315,7 @@
 				)
 			)
 		)
-		(property "Value" "68p"
+		(property "Value" "3p"
 			(at 223.012 156.21 90)
 			(effects
 				(font
@@ -6160,6 +6360,15 @@
 			)
 		)
 		(property "URL" ""
+			(at 224.79 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" ""
 			(at 224.79 152.4 0)
 			(effects
 				(font
@@ -6267,7 +6476,7 @@
 				)
 			)
 		)
-		(property "Value" "NJM4558"
+		(property "Value" "NJM4580"
 			(at 209.55 41.91 0)
 			(effects
 				(font
@@ -6284,7 +6493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.njr.com/semicon/PDF/NJM4558_NJM4559_E.pdf"
+		(property "Datasheet" ""
 			(at 209.55 49.53 0)
 			(effects
 				(font
@@ -6339,6 +6548,15 @@
 			)
 		)
 		(property "URL" ""
+			(at 209.55 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "0"
 			(at 209.55 49.53 0)
 			(effects
 				(font
@@ -6508,7 +6726,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g107852/"
+			(at 191.77 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "6"
 			(at 191.77 34.29 0)
 			(effects
 				(font
@@ -6595,6 +6822,15 @@
 			)
 		)
 		(property "URL" "https://akizukidenshi.com/catalog/g/g102460/"
+			(at 29.21 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "3"
 			(at 29.21 123.19 0)
 			(effects
 				(font
@@ -6749,7 +6985,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g107852/"
+			(at 191.77 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "6"
 			(at 191.77 21.59 0)
 			(effects
 				(font
@@ -6828,7 +7073,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g125105/"
+			(at 43.18 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "6"
 			(at 43.18 153.67 0)
 			(effects
 				(font
@@ -6915,6 +7169,15 @@
 			)
 		)
 		(property "URL" "https://akizukidenshi.com/catalog/g/g102460/"
+			(at 153.67 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "3"
 			(at 153.67 133.35 0)
 			(effects
 				(font
@@ -7134,7 +7397,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g107852/"
+			(at 207.01 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "6"
 			(at 207.01 68.58 0)
 			(effects
 				(font
@@ -7185,7 +7457,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
 			(at 186.3852 64.77 0)
 			(effects
 				(font
@@ -7212,7 +7484,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RD20F106Z1EH5L"
 			(at 185.42 60.96 0)
 			(effects
 				(font
@@ -7221,7 +7493,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g103095/"
+			(at 185.42 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "1"
 			(at 185.42 60.96 0)
 			(effects
 				(font
@@ -7329,7 +7610,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100u"
 			(at 194.31 92.71 90)
 			(effects
 				(font
@@ -7337,7 +7618,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 198.12 96.8248 0)
 			(effects
 				(font
@@ -7364,7 +7645,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g105041/"
+			(at 194.31 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" ""
 			(at 194.31 97.79 0)
 			(effects
 				(font
@@ -7516,7 +7806,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g107852/"
+			(at 209.55 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "6"
 			(at 209.55 97.79 0)
 			(effects
 				(font
@@ -7604,6 +7903,15 @@
 				(hide yes)
 			)
 		)
+		(property "purchase" ""
+			(at 118.11 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6f88e45b-d9a7-4435-9430-e6126546f86e")
 		)
@@ -7637,7 +7945,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100u"
 			(at 194.31 105.41 90)
 			(effects
 				(font
@@ -7645,7 +7953,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 198.12 109.5248 0)
 			(effects
 				(font
@@ -7672,7 +7980,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g105041/"
+			(at 194.31 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" ""
 			(at 194.31 110.49 0)
 			(effects
 				(font
@@ -7817,7 +8134,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g125105/"
+			(at 256.54 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "6"
 			(at 256.54 135.89 0)
 			(effects
 				(font
@@ -7950,6 +8276,15 @@
 				(hide yes)
 			)
 		)
+		(property "purchase" ""
+			(at 49.53 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "066f1fa0-a3af-4698-8145-50bbe394f5c3")
 		)
@@ -7983,7 +8318,7 @@
 				)
 			)
 		)
-		(property "Value" "NJM4558"
+		(property "Value" "NJM4580"
 			(at 227.33 118.11 0)
 			(effects
 				(font
@@ -8000,7 +8335,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.njr.com/semicon/PDF/NJM4558_NJM4559_E.pdf"
+		(property "Datasheet" ""
 			(at 227.33 125.73 0)
 			(effects
 				(font
@@ -8055,6 +8390,15 @@
 			)
 		)
 		(property "URL" ""
+			(at 227.33 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "0"
 			(at 227.33 125.73 0)
 			(effects
 				(font
@@ -8179,7 +8523,7 @@
 				)
 			)
 		)
-		(property "Value" "68p"
+		(property "Value" "3p"
 			(at 205.232 80.01 90)
 			(effects
 				(font
@@ -8242,6 +8586,15 @@
 			)
 		)
 		(property "URL" ""
+			(at 207.01 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" ""
 			(at 207.01 76.2 0)
 			(effects
 				(font
@@ -8330,6 +8683,15 @@
 			)
 		)
 		(property "MPN" "RD15W334K1HL2L"
+			(at 57.15 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "1"
 			(at 57.15 82.55 0)
 			(effects
 				(font
@@ -8547,7 +8909,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g107852/"
+			(at 209.55 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "6"
 			(at 209.55 110.49 0)
 			(effects
 				(font
@@ -8796,7 +9167,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 46.6852 86.36 0)
 			(effects
 				(font
@@ -8824,6 +9195,15 @@
 			)
 		)
 		(property "URL" ""
+			(at 45.72 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" ""
 			(at 45.72 82.55 0)
 			(effects
 				(font
@@ -8902,7 +9282,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g125105/"
+			(at 71.12 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "6"
 			(at 71.12 153.67 0)
 			(effects
 				(font
@@ -8998,6 +9387,15 @@
 				(hide yes)
 			)
 		)
+		(property "purchase" ""
+			(at 196.85 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d08d87de-87b9-4267-9afa-be3b333d0f65")
 		)
@@ -9068,7 +9466,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g125105/"
+			(at 62.23 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "6"
 			(at 62.23 153.67 0)
 			(effects
 				(font
@@ -9146,6 +9553,15 @@
 			)
 		)
 		(property "URL" ""
+			(at 30.48 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "0"
 			(at 30.48 74.93 0)
 			(effects
 				(font
@@ -9439,6 +9855,15 @@
 				(hide yes)
 			)
 		)
+		(property "purchase" ""
+			(at 191.77 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3d2f5c9f-30d8-4f55-91fc-976003585884")
 		)
@@ -9526,6 +9951,15 @@
 				(hide yes)
 			)
 		)
+		(property "purchase" ""
+			(at 209.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8950b99d-50dc-4e18-be28-921b00eee043")
 		)
@@ -9602,7 +10036,16 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g107852/"
+			(at 224.79 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "6"
 			(at 224.79 144.78 0)
 			(effects
 				(font

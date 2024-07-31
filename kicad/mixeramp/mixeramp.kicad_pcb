@@ -2613,7 +2613,7 @@
 		(descr "Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=15.24mm, 1W, length*diameter=9.9*3.6mm^2")
 		(tags "Resistor Axial_DIN0411 series Axial Horizontal pin pitch 15.24mm 1W length 9.9mm diameter 3.6mm")
 		(property "Reference" "R9"
-			(at 7.62 -2.92 0)
+			(at -2.874 -0.165 0)
 			(layer "F.SilkS")
 			(uuid "0deae927-e24f-40d2-8b45-c5b3f807f80a")
 			(effects
@@ -3241,7 +3241,7 @@
 		(descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.8*2.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 2.50mm  diameter 3.8mm width 2.6mm Capacitor")
 		(property "Reference" "C12"
-			(at 1.25 -2.55 0)
+			(at -2.389 -1.487 0)
 			(layer "F.SilkS")
 			(uuid "38bb7b97-3345-40cb-91fb-194fc80cae50")
 			(effects
@@ -7104,7 +7104,7 @@
 		(descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.8*2.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 2.50mm  diameter 3.8mm width 2.6mm Capacitor")
 		(property "Reference" "C16"
-			(at 1.25 -2.55 0)
+			(at -2.337 -0.584 0)
 			(layer "F.SilkS")
 			(uuid "2fa0ac2b-390d-479a-9913-ccdff3dd11fb")
 			(effects
@@ -7787,7 +7787,7 @@
 		(descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.8*2.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 2.50mm  diameter 3.8mm width 2.6mm Capacitor")
 		(property "Reference" "C3"
-			(at 1.25 -2.55 90)
+			(at 4.605 -0.348 90)
 			(layer "F.SilkS")
 			(uuid "d9d3a1ec-4e40-4cac-9b87-470543814409")
 			(effects
@@ -8107,7 +8107,7 @@
 		(descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.8*2.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 2.50mm  diameter 3.8mm width 2.6mm Capacitor")
 		(property "Reference" "C11"
-			(at 1.25 -2.55 0)
+			(at 0.111 -1.64 0)
 			(layer "F.SilkS")
 			(uuid "4ec9b78f-6d96-4e7d-9514-5ed930b10f15")
 			(effects
@@ -10623,7 +10623,7 @@
 		(descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.8*2.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 2.50mm  diameter 3.8mm width 2.6mm Capacitor")
 		(property "Reference" "C4"
-			(at 1.25 -2.55 0)
+			(at -2.114 0.084 0)
 			(layer "F.SilkS")
 			(uuid "dba9008f-3e0d-47d1-bc15-d7d89fc5a394")
 			(effects
@@ -11653,7 +11653,7 @@
 		(descr "Resistor, Axial_DIN0204 series, Axial, Vertical, pin pitch=2.54mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Vertical pin pitch 2.54mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R7"
-			(at 1.27 -1.92 90)
+			(at 4.855 0.235 90)
 			(layer "F.SilkS")
 			(uuid "1a7e4e85-122e-4748-b87f-e56dc040c025")
 			(effects
@@ -13960,7 +13960,7 @@
 		(descr "Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=15.24mm, 1W, length*diameter=9.9*3.6mm^2")
 		(tags "Resistor Axial_DIN0411 series Axial Horizontal pin pitch 15.24mm 1W length 9.9mm diameter 3.6mm")
 		(property "Reference" "R13"
-			(at 7.62 -2.92 0)
+			(at 10.476 3.096 0)
 			(layer "F.SilkS")
 			(uuid "d24f8a68-7bed-423e-b902-80a2b135df32")
 			(effects
@@ -14261,7 +14261,7 @@
 		(descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.8*2.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 2.50mm  diameter 3.8mm width 2.6mm Capacitor")
 		(property "Reference" "C7"
-			(at 1.25 -2.55 0)
+			(at -1.867 0.1555 0)
 			(layer "F.SilkS")
 			(uuid "f9dc4656-792a-4542-a27a-87e5e2b3ac39")
 			(effects
@@ -15405,7 +15405,7 @@
 		(descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.8*2.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 2.50mm  diameter 3.8mm width 2.6mm Capacitor")
 		(property "Reference" "C15"
-			(at 1.25 -2.55 0)
+			(at 0.036 1.584 0)
 			(layer "F.SilkS")
 			(uuid "d595cd82-265f-4f89-8ae4-258d7940f997")
 			(effects
@@ -15416,7 +15416,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 1.25 2.55 0)
+			(at 2.536 1.584 0)
 			(layer "F.Fab")
 			(uuid "a46cba46-e5da-4b8a-8caa-87efee4949fd")
 			(effects
@@ -19394,7 +19394,7 @@
 		(descr "CP, Radial series, Radial, pin pitch=3.50mm, , diameter=8mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 3.50mm  diameter 8mm Electrolytic Capacitor")
 		(property "Reference" "C18"
-			(at 6.195 -11.52 90)
+			(at -2.136349 4.349 90)
 			(layer "F.SilkS")
 			(uuid "8f3b39d3-9534-44ab-a8b0-d0fc0ebb78c7")
 			(effects
@@ -21171,7 +21171,7 @@
 		(descr "8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
 		(property "Reference" "U3"
-			(at 3.81 -2.33 0)
+			(at 0.566 -3.075 0)
 			(layer "F.SilkS")
 			(uuid "50f39079-6448-41be-9d8f-c66d8c587741")
 			(effects
@@ -23772,7 +23772,7 @@
 		(descr "Resistor, Axial_DIN0411 series, Axial, Horizontal, pin pitch=15.24mm, 1W, length*diameter=9.9*3.6mm^2")
 		(tags "Resistor Axial_DIN0411 series Axial Horizontal pin pitch 15.24mm 1W length 9.9mm diameter 3.6mm")
 		(property "Reference" "R12"
-			(at 7.62 -2.92 0)
+			(at 5.273 2.749 0)
 			(layer "F.SilkS")
 			(uuid "7573a167-15b1-413f-a1c0-0719ed956c8f")
 			(effects

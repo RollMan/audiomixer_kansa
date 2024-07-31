@@ -115,7 +115,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "gerbers-jlcpcb")
+			(outputdirectory "gerbers-jlcpcb-mixeramp-20240731")
 		)
 	)
 	(net 0 "")

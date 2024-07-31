@@ -4000,6 +4000,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 176.53 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7cd303bf-aeea-4759-9d5f-a68035a7c61a")
 		)
@@ -4087,7 +4096,16 @@
 				(hide yes)
 			)
 		)
-		(property "purchase" ""
+		(property "purchase" "0"
+			(at 191.77 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 191.77 60.96 0)
 			(effects
 				(font
@@ -4251,6 +4269,15 @@
 			)
 		)
 		(property "purchase" "1"
+			(at 66.04 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 66.04 72.39 0)
 			(effects
 				(font
@@ -4423,6 +4450,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 29.21 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "R"
 			(uuid "4c264d8d-cb1a-485a-b6ff-28ef746e4f68")
 		)
@@ -4505,7 +4541,16 @@
 				(hide yes)
 			)
 		)
-		(property "purchase" ""
+		(property "purchase" "0"
+			(at 90.17 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 90.17 82.55 0)
 			(effects
 				(font
@@ -4676,6 +4721,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 203.2 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2a838dd9-64f4-4201-9bc3-daf4ebf78b56")
 		)
@@ -4822,6 +4876,15 @@
 			)
 		)
 		(property "purchase" "6"
+			(at 52.07 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 52.07 153.67 0)
 			(effects
 				(font
@@ -4991,6 +5054,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 227.33 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "904c6d28-8810-4bea-9653-81c2012cd6e6")
 		)
@@ -5053,6 +5125,24 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 228.6 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
+			(at 228.6 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "0"
 			(at 228.6 33.02 0)
 			(effects
 				(font
@@ -5209,6 +5299,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 236.22 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0e642844-ed0d-484c-8f11-1ba2b7164ef1")
 		)
@@ -5326,6 +5425,15 @@
 			)
 		)
 		(property "purchase" ""
+			(at 21.59 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 21.59 35.56 0)
 			(effects
 				(font
@@ -5468,6 +5576,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 35.56 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "15d332fb-5f93-420b-8b24-29d5646c1491")
 		)
@@ -5500,7 +5617,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "470"
 			(at 173.736 49.784 90)
 			(effects
 				(font
@@ -5544,7 +5661,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g108532/"
 			(at 173.99 46.99 0)
 			(effects
 				(font
@@ -5553,7 +5670,16 @@
 				(hide yes)
 			)
 		)
-		(property "purchase" ""
+		(property "purchase" "1"
+			(at 173.99 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 173.99 46.99 0)
 			(effects
 				(font
@@ -5714,6 +5840,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 176.53 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "14be119d-1ee6-49b7-8f50-f4d6aa9e3784")
 		)
@@ -5801,6 +5936,15 @@
 			)
 		)
 		(property "purchase" ""
+			(at 245.11 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 245.11 125.73 0)
 			(effects
 				(font
@@ -5999,6 +6143,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 137.16 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "030d9bf2-8369-481d-8f74-69097f7f7a91")
 		)
@@ -6096,7 +6249,16 @@
 				(hide yes)
 			)
 		)
-		(property "purchase" ""
+		(property "purchase" "0"
+			(at 76.2 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 76.2 82.55 0)
 			(effects
 				(font
@@ -6204,7 +6366,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "470"
 			(at 180.086 64.516 0)
 			(effects
 				(font
@@ -6249,7 +6411,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g108532/"
 			(at 179.07 60.96 0)
 			(effects
 				(font
@@ -6258,7 +6420,16 @@
 				(hide yes)
 			)
 		)
-		(property "purchase" ""
+		(property "purchase" "1"
+			(at 179.07 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 179.07 60.96 0)
 			(effects
 				(font
@@ -6355,6 +6526,15 @@
 			)
 		)
 		(property "MPN" "RD20F106Z1EH5L"
+			(at 128.27 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 128.27 34.29 0)
 			(effects
 				(font
@@ -6514,7 +6694,16 @@
 				(hide yes)
 			)
 		)
-		(property "purchase" ""
+		(property "purchase" "0"
+			(at 224.79 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 224.79 152.4 0)
 			(effects
 				(font
@@ -6711,6 +6900,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 209.55 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "030d9bf2-8369-481d-8f74-69097f7f7a92")
 		)
@@ -6865,6 +7063,24 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 228.6 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "0"
+			(at 228.6 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/11602971-1910-4bf8-b91f-ff27e81a8325"
@@ -6936,7 +7152,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://akizukidenshi.com/catalog/g/g107852/"
+		(property "URL" "https://akizukidenshi.com/catalog/g/g108562/"
 			(at 191.77 34.29 0)
 			(effects
 				(font
@@ -6946,6 +7162,15 @@
 			)
 		)
 		(property "purchase" "6"
+			(at 191.77 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" "buy 47kOhm and several values at the same time."
 			(at 191.77 34.29 0)
 			(effects
 				(font
@@ -7041,6 +7266,15 @@
 			)
 		)
 		(property "purchase" "3"
+			(at 29.21 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 29.21 123.19 0)
 			(effects
 				(font
@@ -7195,7 +7429,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://akizukidenshi.com/catalog/g/g107852/"
+		(property "URL" "https://akizukidenshi.com/catalog/g/g108562/"
 			(at 191.77 21.59 0)
 			(effects
 				(font
@@ -7205,6 +7439,15 @@
 			)
 		)
 		(property "purchase" "6"
+			(at 191.77 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" "buy 47kOhm and several values at the same time."
 			(at 191.77 21.59 0)
 			(effects
 				(font
@@ -7301,6 +7544,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 43.18 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "65d2f25e-be6e-4e8f-a7c7-4bd59b5b0fc8")
 		)
@@ -7388,6 +7640,15 @@
 			)
 		)
 		(property "purchase" "3"
+			(at 153.67 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 153.67 133.35 0)
 			(effects
 				(font
@@ -7607,7 +7868,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://akizukidenshi.com/catalog/g/g107852/"
+		(property "URL" "https://akizukidenshi.com/catalog/g/g108562/"
 			(at 207.01 68.58 0)
 			(effects
 				(font
@@ -7617,6 +7878,15 @@
 			)
 		)
 		(property "purchase" "6"
+			(at 207.01 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" "buy 47kOhm and several values at the same time."
 			(at 207.01 68.58 0)
 			(effects
 				(font
@@ -7713,6 +7983,15 @@
 			)
 		)
 		(property "purchase" "1"
+			(at 185.42 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 185.42 60.96 0)
 			(effects
 				(font
@@ -7873,6 +8152,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 194.31 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5b98372-83ca-40d6-a997-aa5da780712b")
 		)
@@ -8016,7 +8304,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://akizukidenshi.com/catalog/g/g107852/"
+		(property "URL" "https://akizukidenshi.com/catalog/g/g108562/"
 			(at 209.55 97.79 0)
 			(effects
 				(font
@@ -8026,6 +8314,15 @@
 			)
 		)
 		(property "purchase" "6"
+			(at 209.55 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" "buy 47kOhm and several values at the same time."
 			(at 209.55 97.79 0)
 			(effects
 				(font
@@ -8113,7 +8410,16 @@
 				(hide yes)
 			)
 		)
-		(property "purchase" ""
+		(property "purchase" "0"
+			(at 118.11 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 118.11 34.29 0)
 			(effects
 				(font
@@ -8200,6 +8506,15 @@
 			)
 		)
 		(property "purchase" ""
+			(at 194.31 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 194.31 110.49 0)
 			(effects
 				(font
@@ -8362,6 +8677,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 256.54 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0e38470c-fa2a-4a0b-a58c-9ccc0fc237a3")
 		)
@@ -8495,6 +8819,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 49.53 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "066f1fa0-a3af-4698-8145-50bbe394f5c3")
 		)
@@ -8617,6 +8950,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 227.33 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "030d9bf2-8369-481d-8f74-69097f7f7a93")
 		)
@@ -8697,6 +9039,24 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 228.6 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
+			(at 228.6 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "0"
 			(at 228.6 27.94 0)
 			(effects
 				(font
@@ -8868,7 +9228,16 @@
 				(hide yes)
 			)
 		)
-		(property "purchase" ""
+		(property "purchase" "0"
+			(at 207.01 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 207.01 76.2 0)
 			(effects
 				(font
@@ -8966,6 +9335,15 @@
 			)
 		)
 		(property "purchase" "1"
+			(at 57.15 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 57.15 82.55 0)
 			(effects
 				(font
@@ -9176,6 +9554,24 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 228.6 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "purchase" "0"
+			(at 228.6 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "mixeramp"
 				(path "/11602971-1910-4bf8-b91f-ff27e81a8325"
@@ -9247,7 +9643,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://akizukidenshi.com/catalog/g/g107852/"
+		(property "URL" "https://akizukidenshi.com/catalog/g/g108562/"
 			(at 209.55 110.49 0)
 			(effects
 				(font
@@ -9257,6 +9653,15 @@
 			)
 		)
 		(property "purchase" "6"
+			(at 209.55 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" "buy 47kOhm and several values at the same time."
 			(at 209.55 110.49 0)
 			(effects
 				(font
@@ -9541,7 +9946,16 @@
 				(hide yes)
 			)
 		)
-		(property "purchase" ""
+		(property "purchase" "0"
+			(at 45.72 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 45.72 82.55 0)
 			(effects
 				(font
@@ -9638,6 +10052,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 71.12 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5c917182-af66-4eb9-86b1-e9f0dc853d31")
 		)
@@ -9671,7 +10094,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "470"
 			(at 197.866 140.716 0)
 			(effects
 				(font
@@ -9716,7 +10139,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g108532/"
 			(at 196.85 137.16 0)
 			(effects
 				(font
@@ -9725,7 +10148,16 @@
 				(hide yes)
 			)
 		)
-		(property "purchase" ""
+		(property "purchase" "1"
+			(at 196.85 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 196.85 137.16 0)
 			(effects
 				(font
@@ -9822,6 +10254,15 @@
 				(hide yes)
 			)
 		)
+		(property "note" ""
+			(at 62.23 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8000209d-25f2-49c2-990a-bc978fd803f2")
 		)
@@ -9900,6 +10341,15 @@
 			)
 		)
 		(property "purchase" "0"
+			(at 30.48 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 30.48 74.93 0)
 			(effects
 				(font
@@ -10140,7 +10590,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "470"
 			(at 191.516 125.984 90)
 			(effects
 				(font
@@ -10184,7 +10634,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" ""
+		(property "URL" "https://akizukidenshi.com/catalog/g/g108532/"
 			(at 191.77 123.19 0)
 			(effects
 				(font
@@ -10193,7 +10643,16 @@
 				(hide yes)
 			)
 		)
-		(property "purchase" ""
+		(property "purchase" "1"
+			(at 191.77 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 191.77 123.19 0)
 			(effects
 				(font
@@ -10289,7 +10748,16 @@
 				(hide yes)
 			)
 		)
-		(property "purchase" ""
+		(property "purchase" "0"
+			(at 209.55 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" ""
 			(at 209.55 137.16 0)
 			(effects
 				(font
@@ -10374,7 +10842,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://akizukidenshi.com/catalog/g/g107852/"
+		(property "URL" "https://akizukidenshi.com/catalog/g/g108562/"
 			(at 224.79 144.78 0)
 			(effects
 				(font
@@ -10384,6 +10852,15 @@
 			)
 		)
 		(property "purchase" "6"
+			(at 224.79 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "note" "buy 47kOhm and several values at the same time."
 			(at 224.79 144.78 0)
 			(effects
 				(font
